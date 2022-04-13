@@ -1,6 +1,10 @@
 
-</div><div id="header" align="center">
-    <img width="250" alt="error gif" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+<div id="header" align="center">
+    <h1>
+    Hey there!!
+    <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50px"/>
+</h1>
+    <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250px"/>
 </div>
 <div id="badges" align="center">
     <a href="twitter.com" target="_blank">
@@ -11,21 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=javiersteven&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-<h1>
-    Hey there!!
-    <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50px"/>
-</h1>
 </div>
 
 ---
 
-<div align="center" >
-  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250px"/>
-</div>
-
 <h2>About Me <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="60"/></h2>
-<p>I am a Full Stack Developer (in progress) from Colombia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /></p>
-
+<p>I am a Full Stack Developer (in progress) from Colombia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /></p>
+<br />
 <ul>
     <li>🔭 I'm currently working in web app projects.</li>
     <li>🌱 I'm currently learning more of ReactJS & Rust.</li>
@@ -36,12 +32,13 @@
     <li>😄 Pronouns: `None`</li>
     <li>⚡ Fun fact: ...</li>
 </ul>
+<br />
 
 ---
 
-<h2>Languages and Tools <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="60"/></h2>
 
-<div>
+<div align="center">
+<h2>Languages and Tools <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="60"/></h2>
     <img 
         src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" 
         title="React" 
