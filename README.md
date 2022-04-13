@@ -17,8 +17,10 @@
 </div>
 
 ---
-
-<h2>About Me <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="60"/></h2>
+<div align="center">
+    <h2>About Me <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="60"/></h2>
+</div>
+<br/>
 <p>I am a Full Stack Developer (in progress) from Colombia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /></p>
 <br />
 <ul>
@@ -38,6 +40,7 @@
 
 <div align="center">
 <h2>Languages and Tools <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="70"/></h2>
+    <br/>
     <img 
         src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" 
         title="html5" 
@@ -108,4 +111,5 @@
         width="40" 
         height="40"
     />&nbsp;
+    <br/>
 </div>
