@@ -5,11 +5,6 @@
 </h1>
     <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250px"/>
 </div>
-<div id="badges" align="center">
-    <a href="twitter.com" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter badge">
-    </a>
-</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=javiersteven&style=flat-square&color=blue" alt=""/>
 </div>
@@ -38,20 +33,6 @@
 <h2>Languages and Tools <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="70"/></h2>
     <br/>
     <img 
-        src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" 
-        title="html5" 
-        alt="html5" 
-        width="40" 
-        height="40"
-    />&nbsp;
-    <img 
-        src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" 
-        title="Css3" 
-        alt="Css3" 
-        width="40" 
-        height="40"
-    />&nbsp;
-    <img 
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
         title="JavaScript" 
         alt="JavaScript" 
@@ -76,6 +57,20 @@
         src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" 
         title="Express" 
         alt="Express" 
+        width="40" 
+        height="40"
+    />&nbsp;
+    <img 
+        src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" 
+        title="html5" 
+        alt="html5" 
+        width="40" 
+        height="40"
+    />&nbsp;
+    <img 
+        src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" 
+        title="Css3" 
+        alt="Css3" 
         width="40" 
         height="40"
     />&nbsp;
