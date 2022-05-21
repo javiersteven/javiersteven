@@ -25,13 +25,9 @@
 <br />
 <ul>
     <li>🔭 I'm currently working in web app projects.</li>
-    <li>🌱 I'm currently learning more of ReactJS & Rust.</li>
+    <li>🌱 I'm currently learning more of React.</li>
     <li>👯 I'm looking to collaborate on Open Source Projects to grow as a good dev.</li>
-    <li>🤔 I'm looking for help with ... (default)</li>
     <li>💬 Ask me about topics that have to do with Html, Css, JavaScript, ReactJS & Python.</li>
-    <li>📫 How to reach me: You can write me a email `***************@gmail.com` (no phishing, please)   </li>
-    <li>😄 Pronouns: `None`</li>
-    <li>⚡ Fun fact: ...</li>
 </ul>
 <br />
 
@@ -98,16 +94,9 @@
         height="40"
     />&nbsp;
     <img 
-        src="https://github.chttps://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
+        src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
         title="Git" 
         alt="Git" 
-        width="40" 
-        height="40"
-    />&nbsp;
-    <img 
-        src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" 
-        title="Github" 
-        alt="Github" 
         width="40" 
         height="40"
     />&nbsp;
